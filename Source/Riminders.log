@@ -1,0 +1,24 @@
+Line 88: Class MSForms.OptionButton of control optPM was not a loaded control class.
+Line 106: Class MSForms.OptionButton of control optAM was not a loaded control class.
+Line 354: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 94: The property name VariousPropertyBits in optPM is invalid.
+Line 97: The property name DisplayStyle in optPM is invalid.
+Line 98: The property name Size in optPM is invalid.
+Line 99: The property name Value in optPM is invalid.
+Line 100: The property name Caption in optPM is invalid.
+Line 102: The property name FontHeight in optPM is invalid.
+Line 103: The property name FontCharSet in optPM is invalid.
+Line 104: The property name FontPitchAndFamily in optPM is invalid.
+Line 112: The property name VariousPropertyBits in optAM is invalid.
+Line 115: The property name DisplayStyle in optAM is invalid.
+Line 116: The property name Size in optAM is invalid.
+Line 117: The property name Value in optAM is invalid.
+Line 118: The property name Caption in optAM is invalid.
+Line 120: The property name FontHeight in optAM is invalid.
+Line 121: The property name FontCharSet in optAM is invalid.
+Line 122: The property name FontPitchAndFamily in optAM is invalid.
+Line 362: The property name _ExtentX in DTPicker1 is invalid.
+Line 363: The property name _ExtentY in DTPicker1 is invalid.
+Line 364: The property name _Version in DTPicker1 is invalid.
+Line 365: The property name Format in DTPicker1 is invalid.
+Line 366: The property name CurrentDate in DTPicker1 is invalid.
